@@ -10,8 +10,7 @@ I'm passionate and eager to learn backend development. I'm an aspiring  cloud en
 
 - **Backend:** FastAPI, Node.js
 - **Frontend:** React, TypeScript
-- **Languages:** Python, Java, TypeScript
-- **Databases:** MongoDB
+- **Languages:** Python, Java
 - **Cloud:** AWS, Azure
 - **Others:** Machine Learning
 
