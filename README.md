@@ -1,6 +1,46 @@
-<h1 data-importer="text" align="center">Hallo !👋what brings you here?</h1>
+<h1 data-importer="text" align="center">Hi there, I'm Ruan!</h1>
 
+I'm currently studying at National University Manila, Philippines, taking a Bachelor of Science in Computer Science.
+
+I'm passionate and eager to learn backend development. I'm an aspiring  cloud engineer.
+
+---
+
+### Currently using and learning
+
+- **Backend:** FastAPI, Node.js
+- **Frontend:** React, TypeScript
+- **Languages:** Python, Java, TypeScript
+- **Databases:** MongoDB
+- **Cloud:** AWS, Azure
+- **Others:** Machine Learning
+
+  
+ ---
+
+
+### Socials
+
+<div data-importer="socials" align="left">
+  <a href="https://discord.com/users/313331819879858176" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="55" alt="discord logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=plastic" height="55" alt="devto logo"  />
+</div>
+
+---
+### Stats
 ###
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Ruuuaan/Ruuuaan/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Ruuuaan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/Ruuuaan/Ruuuaan/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+---
+
+### Tech (つ✧ω✧)つ
+
 
 <div data-importer="techs" align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="50" alt="python logo"  />
@@ -42,24 +82,9 @@
   <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge" height="50" alt="prometheus logo"  />
 </div>
 
-###
-
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="45" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="45" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=plastic" height="45" alt="devto logo"  />
-</div>
 
 ###
-
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/Ruuuaan/Ruuuaan/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Ruuuaan/Ruuuaan/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Ruuuaan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
+    
 <br clear="both">
 
 <picture data-importer="pacman">
@@ -69,3 +94,4 @@
 </picture>
 
 ###
+
