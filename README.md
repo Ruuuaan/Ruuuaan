@@ -1,6 +1,6 @@
 <h1 data-importer="text" align="center">Hi there, I'm Ruan!</h1>
 
-I'm currently studying at National University Manila, Philippines, taking a Bachelor of Science in Computer Science.
+I'm currently studying at National University Manila, Philippines, currently taking Bachelor of Science in Computer Science.
 
 I'm passionate and eager to learn backend development. I'm an aspiring  cloud engineer.
 
